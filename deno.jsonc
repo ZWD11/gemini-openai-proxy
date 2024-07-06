@@ -1,0 +1,4 @@
+{
+  "exclude": ["./dist", "./coverage"],
+  "lock": false
+}
